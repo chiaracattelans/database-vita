@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "CICCIO CAR. – Lupo Riccio",
+    "tipo": "PERSONAGGIO",
+    "effetti": "Quando entra in gioco, +1 a tutti i Ciccio"
+  },
+  {
+    "nome": "GIULIANA – Logista di Treviso",
+    "tipo": "PERSONAGGIO",
+    "effetti": "Puoi giocare carte con costo ≤ 3"
+  },
+  {
+    "nome": "GENESIO – Vicepresidente",
+    "tipo": "PERSONAGGIO",
+    "effetti": "Non può andare in missione"
+  }
+]
